@@ -42,8 +42,8 @@ Borgartúni 37
 
 Oftast er símanúmer skrifað með þremur tölustöfum, síðan bil og þar á eftir koma síðustu fjórir tölustafirnir. Einnig sjást símanúmer skrifuð með þremur tölustöfum fyrst, síðan bandstrik og loks síðustu fjórir tölustafirnir. Dæmi:
 
-516 1000
-565-1000
+* 516 1000
+* 565-1000
 
 Sjá einnig https://en.wikipedia.org/wiki/Telephone_numbers_in_Iceland
 
